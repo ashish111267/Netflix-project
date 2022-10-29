@@ -1,0 +1,51 @@
+body{
+    background-color: #141414;
+}
+
+
+.header-logo{
+    width: 98px;
+    height: 45px;
+     
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.flex-container-section1-heading{
+    color: white;
+}
+
+.flex-container-profile{
+    width: 60%;
+    display: flex;
+    text-align: center;
+    font-size: 15px;
+    /* background-color: red; */
+    justify-content: space-evenly;
+
+
+}
+
+.individual-profile-images{
+    height: 150px;
+    width: 150px;
+}
+.individual-profile-name{
+    color: white;
+}
+
+.flex-container-section2-button{
+    background-color: #141414;
+    color: #dcdcdc;
+    padding: 10px;
+    border: 1px solid #DCDCDC;
+    font-size: 16px;
+}
